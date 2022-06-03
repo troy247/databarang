@@ -1,0 +1,40 @@
+{
+  "databarang": [
+    {
+      "id": 1,
+      "nama_barang": "Asus ROG",
+      "harga": "19000000",
+      "stok": "10"
+    },
+    {
+      "nama_barang": "Acer Aspire",
+      "harga": "1700000",
+      "stok": "1000",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nama_barang": "Acer Swift",
+      "harga": "9000000",
+      "stok": "10"
+    },
+    {
+      "nama_barang": "Asus TUF",
+      "harga": "15000000",
+      "stok": "12",
+      "id": 4
+    },
+    {
+      "nama_barang": "Iphone 12",
+      "harga": "1200000",
+      "stok": "43",
+      "id": 7
+    },
+    {
+      "nama_barang": "MacBook Pro",
+      "harga": "3300000",
+      "stok": "3",
+      "id": 10
+    }
+  ]
+}
